@@ -72,8 +72,8 @@ public class ValueSetConceptNameFilter {
 	}
 
 	public static void main(String[] args) {
-		ValueSetConceptNameFilter vs = new ValueSetConceptNameFilter("(A+)B");
+		ValueSetConceptNameFilter vs = new ValueSetConceptNameFilter("(A+)C");
 		System.out.println(vs.filterConcept(
-				"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB"));
+				"AAAAAAAAAAAAAAAAAAAAAAAAAC"));
 	}
 }
