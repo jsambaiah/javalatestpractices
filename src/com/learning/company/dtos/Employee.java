@@ -4,7 +4,7 @@
 package com.learning.company.dtos;
 
 /**
- * @author ACJW8ZZ
+ * @author Samba
  *
  */
 public class Employee {
