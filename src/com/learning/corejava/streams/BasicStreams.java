@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.learning.streams;
+package com.learning.corejava.streams;
 
 import java.util.ArrayList;
 import java.util.Arrays;
