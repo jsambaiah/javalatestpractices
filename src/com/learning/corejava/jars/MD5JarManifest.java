@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.learning.jars;
+package com.learning.corejava.jars;
 
 import java.io.IOException;
 import java.io.InputStream;
