@@ -6,18 +6,12 @@ public abstract class Animal {
 	
 	public abstract void animalSound();
 	
-	public void eat() {
-		System.out.println("food");
-	}
+	public abstract void eat();
 	
-	public void sleep() {
-		System.out.println("sleeps under drainage");
-	}
 	
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	public  void sleep()
+	{
+	System.out.println("Pig sleeps at pig stay...");
 	}
 
 }
